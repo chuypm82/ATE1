@@ -1,0 +1,19 @@
+debug.log
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Build artifacts
+bin/
+target/
+
+# Generated sources (if applicable)
+xtend-gen/
+
+# Logs
+*.log
+
+# Sensitive information (example)
+config/secrets.properties
